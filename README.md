@@ -1,6 +1,6 @@
 # Meownode-mini
 a compact meshtastic/meshnode 3D printable case for the Heltec t114 measuring 70mm x 47mm x 25mm. Includes space for a L76K GPS module. requires a right angle IPEX to SMA adapter. 
-<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/a329a515-b6bb-455f-93c3-47eb6f788d82" />
+<img width="400" height="560" alt="image" src="https://github.com/user-attachments/assets/a329a515-b6bb-455f-93c3-47eb6f788d82" />
 
 ## Required things:
 - 3x M3*7*4 (7mm long) brass heat inserts
