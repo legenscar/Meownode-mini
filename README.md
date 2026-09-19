@@ -18,6 +18,7 @@ I suggest printing with a sturdier material like PETG or ABS.
 
 ## Assembly 
 refer to the pictures for cable routing. When assembling, make sure not to pinch any cables. 
+
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/bbef0b05-5d89-42ae-befa-113b4b904f8e" />
 <img width="1440" height="1080" alt="first-node-finished-v0-1xn8az46niph1" src="https://github.com/user-attachments/assets/17801a6a-dc6b-49a0-9b8c-5f4645d17ab8" />
 
