@@ -2,14 +2,14 @@
 a compact meshtastic/meshnode 3D printable case for the Heltec t114 measuring 70mm x 47mm x 25mm. Includes space for a L76K GPS module. requires a right angle IPEX to SMA adapter. 
 
 ## Required things:
-3x M3*7*4 (7mm long) brass heat inserts
-3x M3 screws (no countersunk)
-1x L76K GPS module (optional)
-1x heltec t114 board (with screen)
-1x IPEX to SMA adapter (right angle)
-1x antenna (base diameter <14mm)
-1x battery (smaller than 10mm x 20mm x 50mm)
-1x double sided tape
+- 3x M3*7*4 (7mm long) brass heat inserts
+- 3x M3 screws (no countersunk)
+- 1x L76K GPS module (optional)
+- 1x heltec t114 board (with screen)
+- 1x IPEX to SMA adapter (right angle)
+- 1x antenna (base diameter <14mm)
+- 1x battery (smaller than 10mm x 20mm x 50mm)
+- 1x double sided tape
 
 ## Printing 
 I suggest printing with a sturdier material like PETG or ABS.
